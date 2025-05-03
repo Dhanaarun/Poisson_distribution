@@ -1,7 +1,7 @@
-## Developed by : DHARANI SREE P
+## Developed by :DHANASHREE A
 ## Register number : 212224040071
 ## Department : B.E.(CSE)
-## Date : 29/04/2025
+## Date : 3/05/2025
 
 # Fitting Poisson  distribution
 
